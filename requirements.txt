@@ -3,4 +3,3 @@ uvicorn
 sqlalchemy
 pydantic
 python-multipart
-sqlite3-binary
